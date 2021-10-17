@@ -8,7 +8,7 @@
    
    -My Twitter @luisiurczack16
    
-   -My YouTube Channel:https://www.youtube.com/channel/UCuNE_AdrKjMdhIZTlwq63gA
+
    
 
 <!---
