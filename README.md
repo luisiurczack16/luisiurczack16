@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luisiurczack16
 - 👀 I’m interested in help people program
-- 🌱 I’m currently learning Kotlin
-- 💞️ I'm looking to collaborate on game development
+- 🌱 I’m currently learning 
 - 📫 How to reach me:
     
 
